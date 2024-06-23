@@ -6,10 +6,11 @@ export const styles = StyleSheet.create({
     backgroundColor: '#E5BF3C',
     color: 'black',
     fontSize: 20,
+    fontWeight: 'bold',
     height: 40,
     borderWidth: 1,
     borderRadius: 5,
-    padding: 10,
+    padding: 0,
     textAlign: 'center'
 
   }
